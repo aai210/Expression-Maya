@@ -5,7 +5,7 @@ To use "Expression" you need to select an object, then select the coordinates en
 Selected Object and Attribute: = cos(frame/30);
                                = cos(frame/30)*10;
 ```
-(frame/30) - Is the frame rate
+(frame/30) - Is frame rate
 
 (frame/30)*10 - Now the changes will be from -10 to +10
 
