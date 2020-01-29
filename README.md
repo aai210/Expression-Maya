@@ -1,5 +1,5 @@
 # Expression-Maya
-To use "Expression" you need to select an object, then select the coordinates enter the Edit/Expression tab
+To use "Expression" you need to select an object, then select coordinates enter Edit/Expression tab
 
 ```mel
 Selected Object and Attribute: = cos(frame/30);
