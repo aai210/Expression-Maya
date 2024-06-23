@@ -12,7 +12,7 @@ Selected Object and Attribute: = cos(frame/30);
 ```mel
 Selected Object and Attribute: = sin(time*2,5)*90;
                                = sin(time*2,5 + 30)*90;
-                               = sin(time*2,5 + 30)*pCylinder1.Amplitude;
+                               = sin(time*2,5 + 30) * pCylinder1.Amplitude;
 ```                              
 Responsible functions for movement of wave sin or cos for example deformer "Bend" we edit curvature through expression. We can also use more than one bend on one object.
 
