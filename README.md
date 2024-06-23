@@ -23,4 +23,4 @@ Responsible functions for movement of wave sin or cos for example deformer "Bend
 *90 - Is amplitude
 
 
-*pCylinder1.Amplitude - If we add an attribute to object settings. We will also be able to edit expression through properties of object or to create animation through keys.
+*pCylinder1.Amplitude - If we add an attribute to object settings. Then we will also be able to edit expression through properties of object or to create animation through keys. The expression will look like this.
